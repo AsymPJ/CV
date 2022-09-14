@@ -1,0 +1,190 @@
+html{
+    scroll-behavior: smooth;
+}
+.first-c{
+    opacity:0.3;
+
+}
+.top-container{
+    position: absolute;
+    top: 0;
+    left: 450px;
+    right: 500px;
+    font-family: 'Ubuntu', sans-serif;   
+}
+h1{
+    font-size: 3em;
+    line-height:1.6;
+}
+h2{
+    font-weight: 600;    
+}
+p{
+    font-size: 18px;
+}
+body{
+    background-color: #111010;
+    text-align: center;
+    font-family: "Source sans Pro", sans-serif;
+    color: antiquewhite;
+    margin: 0;
+}
+img{
+    width: 100%;
+
+}
+.footer-link{
+    display:inline-block;
+    margin-top: 25px;
+    padding: 10px;
+    color:rgb(96, 165, 243) ;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Source sans Pro', sans-serif;
+}
+.footer-link:hover{
+    color: antiquewhite;
+}
+.footer-link:visited{
+    color: #2916d4;
+}
+.profile-touch{
+    display: inline;
+    color: antiquewhite;
+    position: absolute;
+    top:200px;
+    left: 100px;
+    font-size: 40px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.profile-touch:hover{
+    color: #7FBCD2;
+}
+.skill-touch{
+    display: inline;
+    color: antiquewhite;
+    position: absolute;
+    top:200px;
+    left: 600px;
+    font-size: 40px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.skill-touch:hover{
+    color:#7FBCD2;
+}
+.education-touch{
+    display: inline;
+    color: antiquewhite;
+    position: absolute;
+    top:200px;
+    right: 30px;
+    font-size: 40px;
+    padding: 10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.education-touch:hover{
+    color:#7FBCD2;
+}
+.contact-touch{
+    display: inline;
+    color: antiquewhite;
+    position: absolute;
+    top: 400px;
+    left: 550px;
+    font-size: 35px;
+    padding: 5px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-touch:hover{
+    color:#7FBCD2;
+}
+.profile{
+    margin: 70px auto;
+}
+.pi{
+    width: 100px;
+    height: 100px;
+    
+}
+.perfil{
+    width: 15%;
+    border-radius: 70px;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    line-height: 1.8;
+    text-align: left;
+}
+.cognitive{
+    width: 20%;
+    float: left;
+    padding: 30px;
+}
+.certificated{
+    width: 20%;
+    float: right;
+    padding: 30px;
+}
+.caption-title{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: antiquewhite;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 6%;
+    border-width: 4px;
+    border-color: #EAF6F6;
+}
+button{
+    background-image: linear-gradient( to bottom, #3a6f83, #a6e1f3);
+    border:none;
+    border-radius: 15px;
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+button:hover{
+    background-image: linear-gradient(to bottom, #28d4ff, #069b8e);
+}
+.btn{
+    color: #000000;
+    text-decoration: none;
+}
+.contact-me{
+    margin:70px auto;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75em;
+
+}
+.bottom-container{
+    padding: 50px auto;
+    background-color: #255769;
+    margin-bottom: 0;
+    height: 150px;
+}
+.description{
+    width: 50%;
+    margin: auto;
+    line-height: 1.8;
+}
+.icon-class{
+    width: 2%;
+    
+
+}
